@@ -2,8 +2,9 @@
 
 ## 1. 프로젝트 개요
 “Perfect Poses(완벽한 자세)” 프로젝트는 Steam의 Perfect Poeses를 Reference로 하여, AI·Data Engineer 팀과 Unreal Engine5 개발 팀이 협업하여 만든 AI 기반 실시간 자세 인식 게임입니다.
-**Reference Game Image**  
-   ![Reference Game Image](assets/image_0.png)   
+### Reference Game Image 
+![Reference Game Image](assets/image_0.png)
+   
 - **목표**: 플레이어의 자세를 실시간으로 인식·분석하여, 기준 자세와의 일치도를 게임 요소로 활용  
 - **팀 구성**  
   - AI Engineer: 김형섭, 김상겸, 이장헌  
@@ -73,9 +74,9 @@
 ---
 
 ## 5. 개발 과정 (AI)
-1. **프로젝트 개발 Process**
-   ![프로젝트 개발 Process](assets/image_1.png)
-2. <strong>Pose Detection 개발</strong>
+### 프로젝트 개발 Process
+![프로젝트 개발 Process](assets/image_1.png)
+### <strong>Pose Detection 개발</strong>
 
 <p><img src="assets/frame_0.jpg" alt="Video에서 Frame 단위로 Image 추출" style="width:100%;"></p>
 
@@ -83,18 +84,18 @@
 
 <p><img src="assets/video_0.gif" alt="실시간 WebCam Detection Test" style="width:100%;"></p>
 
-3. **Segmentation 개발**
-   ![Segmentation Image](assets/sam_mask_0.jpg)
-4. **FastAPI를 활용한 Backend Server 구축**
-   ![FastAPI](assets/image_2.png)
+### Segmentation 개발
+![Segmentation Image](assets/sam_mask_0.jpg)
+### FastAPI를 활용한 Backend Server 구축
+![FastAPI](assets/image_2.png)
 
 ---
 
 ## 6. 서비스 화면 
-1. **Unreal Engine 게임 플레이 화면**  
-   ![시작 화면](assets/game_video_0.gif)  
-2. **실시간 자세 분석 UI**  
-   ![게임 화면](assets/game_screenshot_0.png)  
+### Unreal Engine 게임 플레이 화면
+![시작 화면](assets/game_video_0.gif)  
+### 실시간 자세 분석 UI 
+![게임 화면](assets/game_screenshot_0.png)  
 
 ---
 
