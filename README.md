@@ -27,13 +27,32 @@
    - Debug Trace Line을 이용한 벽 충돌 여부 판정  
 
 ## 3. 기술 스택
-<table style="width:100%">
-| 분류           | 주요 기술 · 라이브러리                      |
-| ------------- | ----------------------------------------- |
-| **AI·데이터**  | Python, OpenCV, Ultralytics YOLO-Pose, SAM (Meta AI)  |
-| **백엔드**     | FastAPI, Uvicorn, Pydantic, REST, JSON       |
-| **게임 엔진**  | Unreal Engine 5, C++, Blueprint             |
-| **협업 도구**  | GitHub, Git (버전 관리)                    |
+
+<table style="width:100%; border-collapse: collapse;" border="1">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">분류</th>
+      <th style="padding: 8px; text-align: left;">주요 기술 · 라이브러리</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;"><strong>AI·데이터</strong></td>
+      <td style="padding: 8px;">Python, OpenCV, Ultralytics YOLO-Pose, SAM (Meta AI)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>백엔드</strong></td>
+      <td style="padding: 8px;">FastAPI, Uvicorn, Pydantic, REST, JSON</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>게임 엔진</strong></td>
+      <td style="padding: 8px;">Unreal Engine 5, C++, Blueprint</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>협업 도구</strong></td>
+      <td style="padding: 8px;">GitHub, Git (버전 관리)</td>
+    </tr>
+  </tbody>
 </table>
 
 
