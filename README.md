@@ -10,6 +10,8 @@
   - Unreal Developer: 이상민, 장진혁, 이득구 
 - <a href="https://www.canva.com/design/DAGhq0A3PgA/W_15JDo5rMgD3zp_HcPNtw/view?utm_content=DAGhq0A3PgA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel"> 프로젝트 발표 자료 </a>
 
+---
+
 ## 2. 주요 기능
 1. **데이터 수집 및 전처리**  
    - 비디오·이미지에서 사용자 프레임 추출  
@@ -28,8 +30,9 @@
    - Level Sequence 활용한 2.5D 시네마틱 연출  
    - Debug Trace Line을 이용한 벽 충돌 여부 판정  
 
-## 3. 기술 스택
+---
 
+## 3. 기술 스택
 <table style="width:100%; border-collapse: collapse;" border="1">
   <thead>
     <tr>
@@ -57,6 +60,7 @@
   </tbody>
 </table>
 
+---
 
 ## 4. 사용자 시나리오
 1. 사용자가 게임을 실행  
@@ -66,29 +70,39 @@
 5. 사전에 만들어 둔 정답 Pose 데이터를 기반으로 게임 시작
 6. 기준 자세와의 일치도에 따라 다음 단계(레벨) 진행 또는 보상 지급  
 
+---
 
-## 5. 개발 과정
+## 5. 개발 과정 (AI)
 1. **프로젝트 개발 Process**
    ![프로젝트 개발 Process](assets/image_1.png)
-2. **Pose Detection 개발**
-   ![Video에서 Frame 단위로 Image 추출](assets/frame_552.jpg)
-   ![추출된 Image에서 Keypoints Detection Test](assets/frame_1008.jpg.jpg)
-   ![실시간 WebCam Detection Test](assets/video_0.gif)
+2. <strong>Pose Detection 개발</strong>
 
+<p><img src="assets/frame_0.jpg" alt="Video에서 Frame 단위로 Image 추출" style="width:100%;"></p>
 
-## 6. 서비스 화면 
-2. **API 서버 대시보드**  
-   ![API 서버](screenshots/api_server.png)  
-3. **Unreal Engine 게임 플레이 화면**  
-   ![게임 플레이](screenshots/gameplay.png)  
-4. **실시간 자세 분석 UI**  
-   ![실시간 분석](screenshots/pose_analysis.png)  
-5. **결과 피드백 & 시네마틱**  
-   ![시네마틱 연출](screenshots/cinematic.png)  
+<p><img src="assets/frame_1.jpg" alt="추출된 Image에서 Keypoints Detection Test" style="width:100%;"></p>
+
+<p><img src="assets/video_0.gif" alt="실시간 WebCam Detection Test" style="width:100%;"></p>
+
+3. **Segmentation 개발**
+   ![Segmentation Image](assets/sam_mask_0.jpg)
+4. **FastAPI를 활용한 Backend Server 구축**
+   ![FastAPI](assets/image_2.png)
 
 ---
 
-## 향후 개발 방향 (옵션)
+## 6. 서비스 화면 
+1. **Unreal Engine 게임 플레이 화면**  
+   ![시작 화면](assets/game_video_0.gif)  
+2. **실시간 자세 분석 UI**  
+   ![게임 화면](assets/game_screenshot_0.png)  
+
+---
+
+## 7. 향후 개발 방향 (옵션)
 - 고급 자세 교정 알고리즘 도입  
 - 멀티플레이 경쟁 모드 확장  
-- 사용자 커스터마이즈 캐릭터 및 애니메이션 추가  
+- 사용자 커스터마이즈 캐릭터 및 애니메이션 추가
+
+
+## 8. 문의
+- 이메일 : rukais2294@gmail.com
