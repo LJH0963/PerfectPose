@@ -1,3 +1,10 @@
-hyeongseob/
-jangheon/
-sanggyeom/
+hyeongseob/__pycache__
+hyeongseob/video_data
+hyeongseob/video_extraction_image
+hyeongseob/video_image_keypoints_save
+
+jangheon/audio_output
+jangheon/img_output
+jangheon/json_output
+jangheon/output
+jangheon/sam_output2
