@@ -1,0 +1,25 @@
+# 웹 서버 및 API
+fastapi>=0.85.0
+uvicorn[standard]>=0.18.0
+
+# 컴퓨터 비전 & 데이터 처리
+opencv-python>=4.7.0
+numpy>=1.24.0
+pandas>=1.5.0
+Pillow>=9.4.0
+
+# 딥러닝 프레임워크
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Ultralytics YOLO-Pose (관절 검출)
+ultralytics>=8.0.100
+
+# Meta AI Segment Anything Model
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git@main
+
+# 비디오·오디오 추출 (필요 시)
+moviepy>=1.0.3
+
+# (Optional) HTTP 요청 시
+requests>=2.28.0
