@@ -1,7 +1,7 @@
 # Perfect Pose <완벽한 자세>
 
 ## 1. 프로젝트 개요
-“Perfect Poses(완벽한 자세)” 프로젝트는 Steam의 Perfect Poeses를 Reference로 하여, AI Engineer 팀과 Unreal Engine5 개발 팀이 협업하여 만든 AI 기반 실시간 자세 인식 게임입니다.  
+“Perfect Poses(완벽한 자세)” 프로젝트는 Steam의 Perfect Poeses를 Reference로 하여, AI·Data Engineer 팀과 Unreal Engine5 개발 팀이 협업하여 만든 AI 기반 실시간 자세 인식 게임입니다.  
 - **목표**: 플레이어의 자세를 실시간으로 인식·분석하여, 기준 자세와의 일치도를 게임 요소로 활용  
 - **팀 구성**  
   - AI Engineer: 김형섭, 김상겸, 이장헌  
@@ -11,7 +11,7 @@
 ## 2. 주요 기능
 1. **데이터 수집 및 전처리**  
    - 비디오·이미지에서 사용자 프레임 추출  
-   - 크롭 & 좌표 정규화 → 월드 좌표계 변환 :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
+   - 크롭 & 좌표 정규화 → 월드 좌표계 변환 
 2. **Pose Estimation**  
    - Ultralytics YOLO-Pose 모델 적용  
    - 정적/실시간 영상에서 관절 위치 검출 및 데이터셋 생성  
@@ -27,6 +27,7 @@
    - Debug Trace Line을 이용한 벽 충돌 여부 판정  
 
 ## 3. 기술 스택
+<table style="width:100%">
 | 분류           | 주요 기술 · 라이브러리                      |
 | ------------- | ----------------------------------------- |
 | **AI·데이터**  | Python, OpenCV, Ultralytics YOLO-Pose, SAM (Meta AI)  |
