@@ -6,7 +6,7 @@
 - **팀 구성**  
   - AI Engineer: 김형섭, 김상겸, 이장헌  
   - Unreal Developer: 이상민, 장진혁, 이득구 
-  - <a href="https://www.canva.com/design/DAGhq0A3PgA/W_15JDo5rMgD3zp_HcPNtw/view?utm_content=DAGhq0A3PgA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel"> 프로젝트 발표 자료 </a>
+- <a href="https://www.canva.com/design/DAGhq0A3PgA/W_15JDo5rMgD3zp_HcPNtw/view?utm_content=DAGhq0A3PgA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel"> 프로젝트 발표 자료 </a>
 
 ## 2. 주요 기능
 1. **데이터 수집 및 전처리**  
