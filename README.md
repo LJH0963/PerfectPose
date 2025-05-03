@@ -4,9 +4,9 @@
 “Perfect Poses(완벽한 자세)” 프로젝트는 Steam의 Perfect Poeses를 Reference로 하여, AI Engineer 팀과 Unreal Engine5 개발 팀이 협업하여 만든 AI 기반 실시간 자세 인식 게임입니다.  
 - **목표**: 플레이어의 자세를 실시간으로 인식·분석하여, 기준 자세와의 일치도를 게임 요소로 활용  
 - **팀 구성**  
-  - 데이터·AI: 김형섭, 김상겸, 이장헌  
-  - 언리얼 게임: 이상민, 장진혁, 이득구 :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
-  <a href="https://www.canva.com/design/DAGhq0A3PgA/W_15JDo5rMgD3zp_HcPNtw/view?utm_content=DAGhq0A3PgA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel"> 프로젝트 발표 자료 </a>
+  - AI Engineer: 김형섭, 김상겸, 이장헌  
+  - Unreal Developer: 이상민, 장진혁, 이득구 
+  - <a href="https://www.canva.com/design/DAGhq0A3PgA/W_15JDo5rMgD3zp_HcPNtw/view?utm_content=DAGhq0A3PgA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel"> 프로젝트 발표 자료 </a>
 
 ## 2. 주요 기능
 1. **데이터 수집 및 전처리**  
