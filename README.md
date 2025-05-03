@@ -66,7 +66,17 @@
 5. 사전에 만들어 둔 정답 Pose 데이터를 기반으로 게임 시작
 6. 기준 자세와의 일치도에 따라 다음 단계(레벨) 진행 또는 보상 지급  
 
-## 5. 서비스 화면 
+
+## 5. 개발 과정
+1. **프로젝트 개발 Process**
+   ![프로젝트 개발 Process](assets/image_1.png)
+2. **Pose Detection 개발**
+   ![Video에서 Frame 단위로 Image 추출](assets/frame_552.jpg)
+   ![추출된 Image에서 Keypoints Detection Test](assets/frame_1008.jpg.jpg)
+   ![실시간 WebCam Detection Test](assets/video_0.gif)
+
+
+## 6. 서비스 화면 
 2. **API 서버 대시보드**  
    ![API 서버](screenshots/api_server.png)  
 3. **Unreal Engine 게임 플레이 화면**  
