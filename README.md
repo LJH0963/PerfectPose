@@ -34,6 +34,7 @@
 | **백엔드**     | FastAPI, Uvicorn, Pydantic, REST, JSON       |
 | **게임 엔진**  | Unreal Engine 5, C++, Blueprint             |
 | **협업 도구**  | GitHub, Git (버전 관리)                    |
+</table>
 
 ## 4. 사용자 시나리오
 1. 사용자가 게임을 실행하고 카메라 모드를 선택  
