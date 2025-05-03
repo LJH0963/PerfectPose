@@ -1,7 +1,7 @@
-# AI 기반의 Unreal Engine5 협업 게임 개발 프로젝트: Perfect Pose <완벽한 자세>
+# Perfect Pose <완벽한 자세>
 
 ## 1. 프로젝트 개요
-“Perfect Poses(완벽한 자세)” 콘셉트를 기반으로, AI·데이터 엔지니어링 팀과 언리얼 엔진 개발 팀이 협업하여 만든 실시간 자세 인식 게임입니다.  
+“Perfect Poses(완벽한 자세)” 프로젝트는 Steam의 Perfect Poeses를 Reference로 하여, AI Engineer 팀과 Unreal Engine5 개발 팀이 협업하여 만든 AI 기반 실시간 자세 인식 게임입니다.  
 - **목표**: 플레이어의 자세를 실시간으로 인식·분석하여, 기준 자세와의 일치도를 게임 요소로 활용  
 - **팀 구성**  
   - 데이터·AI: 김형섭, 김상겸, 이장헌  
