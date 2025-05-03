@@ -1,4 +1,4 @@
-# Wanted PotenUP: 언리얼/AI·데이터 협업 미니 프로젝트
+# AI 기반의 Unreal Engine5 협업 게임 개발 프로젝트: Perfect Pose <완벽한 자세>
 
 ## 1. 프로젝트 개요
 “Perfect Poses(완벽한 자세)” 콘셉트를 기반으로, AI·데이터 엔지니어링 팀과 언리얼 엔진 개발 팀이 협업하여 만든 실시간 자세 인식 게임입니다.  
