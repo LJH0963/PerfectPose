@@ -109,4 +109,4 @@
 
 
 ## 8. 문의
-- 이메일 : rukais2294@gmail.com
+- 이메일 : yyahoo1233@naver.com
